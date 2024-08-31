@@ -226,7 +226,7 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-    width: 290px;
+    width: 260px;
     margin-bottom: 35px;
 }
 
@@ -254,7 +254,6 @@ p {
 
 @media (max-width: 768px) {
     .about {
-        margin-left:20px;
     }
     .learn-more-button{
         margin-bottom:30px
